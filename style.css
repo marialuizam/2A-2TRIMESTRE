@@ -20,5 +20,10 @@ background-color: aquamarine;
     background-image:url(Menu.svg) ;
     background-repeat: no-repeat;
     background-position: center;
-
+}
+.cabecalho{
+background-color: antiquewhite;
+display: flex;
+justify-content: space-between;
+align-items: center;
 }
