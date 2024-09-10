@@ -16,7 +16,7 @@ background-color: aquamarine;
 
      .cabecalho__menu-hamburguer{
      width: 30px;
-    height: 24px;
+    height: 30px;
     display: inline-block; 
     background-image:url(Menu.svg) ;
     background-repeat: no-repeat;
@@ -24,6 +24,6 @@ background-color: aquamarine;
 }
 .cabecalho__imagem{
 width: 30px;
-height: 24px;
+height: 30px;
 
 }
